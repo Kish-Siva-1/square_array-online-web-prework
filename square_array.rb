@@ -4,8 +4,7 @@ def square_array(array)
   
   array.each do |element|
     
-    array[counter] << element ** 2 
-    counter += 1
+    counter << element ** 2 
     
   end  
   

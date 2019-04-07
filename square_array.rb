@@ -5,6 +5,9 @@ def square_array(array)
   array.each do |element|
     
     counter << element ** 2 
+    puts counter
+    
+  array = counter
     
   end  
   

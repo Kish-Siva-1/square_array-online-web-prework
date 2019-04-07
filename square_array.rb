@@ -7,6 +7,8 @@ def square_array(array)
     counter << element ** 2 
     puts counter
     
-  end  array=counter
+  end  
+  
+  array=counter
     
 end
